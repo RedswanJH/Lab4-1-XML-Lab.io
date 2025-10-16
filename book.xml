@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookCatalogue>
+  <book id="1">
+    <title>The life of A Showgirl</title>
+    <author>Taylor Swift</author>
+    <price>13.99</price>
+  </book>
+  <book id="2">
+    <title>Face The Sun</title>
+    <author>SEVENTEEN</author>
+    <price>17.13</price>
+  </book>
+  <book id="3">
+    <title>The Story Goes On</title>
+    <author>J.Y.P.TWICE</author>
+    <price>9.99</price>
+  </book>
+</bookCatalogue>
